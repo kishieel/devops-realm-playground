@@ -1,4 +1,10 @@
-# devops-realm-playground
+# DevOps Realm Playground
+
+### Roadmap
+
+https://roadmap.sh/devops
+
+### Todo
 
 1. Terraform/terragrunt
 2. Ansible
@@ -24,4 +30,5 @@
 22. Kafka
 23. RabbitMQ
 24. Envoy
+25. Config Service / Environment Managment
     
